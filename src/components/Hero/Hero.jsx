@@ -15,8 +15,8 @@ export const Hero = () => {
                 <img src={getImageUrl("hero/herImage.jpg")} alt="Hero image of me" className={styles.heroImg} />
                     <div className={styles.topBlur} />
                     <div className={styles.bottomBlur} />
-    </section>
+            </section>
     );
 };
 
-export default Hero
+export default Hero;
