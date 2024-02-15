@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "projects/project.png",
+        "description": "Details...",
+        "skills": ["Double Fine"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+        }
+]
